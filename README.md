@@ -1,1 +1,3 @@
 # Billboard-hot100-predictor-spotify-dataset
+
+This project explores the potential to predict whether a song will enter the BillboardHot100 using audio features from Spotify.Leveraging a dataset of 41,106 songs, we examined features such as danceability, energy, and valence to determine their influence on chart success. We employed machine learning models, including Logistic Regression, Random Forest, and Support Vector Classifier (SVC), with Random Forest emerging as the best-performing model after hyperparameter tuning, achieving an accuracy of approximately 79%. This project provides insights into the characteristics associated with hit songs and demonstrates the feasibility of predictive models in the music industry
